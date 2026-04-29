@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-urw2e4.shahadishraq.com/sitemap.xml
